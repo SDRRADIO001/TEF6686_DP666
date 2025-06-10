@@ -1,11 +1,10 @@
 # TEF6686_DP666
-SPARKELEC 资料库
-DP-666 官方固件下载：
-
-触摸固件
-
-DP-666 刷机流程:
-1. 使用TYPC-C数据线将收音机连接到电脑，在设备管理器会出现新的串口号，如果没有请安装CH430N驱动。
-2. 按住收音机BOOT 键，然后再按POWER给收音机通电，进入刷机模式。
-3. 下载并解压固件，执行其中的flash.bat刷机脚本，输入对应串口号开始刷机。
-4. 等待刷机结束，重启收音机。
+SPARKELEC database DP-666 official firmware or touch firmware download
+Official firmware link:
+https://github.com/PE5PVB/TEF6686_ESP32
+https://github.com/flyoob/TEF6686_ESP32
+DP-666 flashing process:
+1. Connect the radio to the computer using the TYPC-C data cable, and a new serial port number will appear in the device manager. If not, please install the CH430N driver.
+2. Press and hold the BOOT button on the radio, then press POWER to power on the radio and enter flashing mode.
+3. Download and unzip the firmware, execute the flash.bat flashing script, and enter the corresponding serial port number to start flashing.
+4. Wait for the flashing to end and restart the radio.
