@@ -16,3 +16,5 @@ DP-666 flashing process:
 3. Download and unzip the firmware, execute the flash.bat flashing script, and enter the corresponding serial port number to start flashing.
 
 4. Wait for the flashing to end and restart the radio.
+
+![16](https://github.com/user-attachments/assets/0f3a68c9-533b-4e55-a5cb-060826e906b5)
