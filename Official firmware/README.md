@@ -1,4 +1,4 @@
-Original firmware: 
+Firmware based on: 
 
 https://github.com/PE5PVB/TEF6686_ESP32
 
