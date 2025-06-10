@@ -1,5 +1,5 @@
 # TEF6686_DP666
-SPARKELEC DP-666 official firmware or touch firmware download
+SPARKELEC DP-666 is a high-sensitivity radio based on NXP TEF6686 chip.
 
 Official firmware link:
 
